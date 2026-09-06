@@ -1,5 +1,14 @@
 const articles = [
     {
+    "title": "三児の父のタスクシュート〜子どもとの時間を、どう守るか　【ユタカジン】",
+    "url": "https://note.com/109maru/n/nc890bc9e6594?magazine_key=m80cde2fde6bf",
+    "image": "https://assets.st-note.com/production/uploads/images/310455460/rectangle_large_type_2_369552e90a3556c91c834ebdbe496442.jpeg?width=1280",
+    "author": "とくまる｜TempoCraft｜公務員",
+    "date": "2026年9月5日 23:07",
+    "tags": []
+},
+    
+    {
     "title": "私がタスクシュートの「集中度」と「元気度」をどのようにして扱っているか？について書く【ユタカジン】",
     "url": "https://note.com/shingotanaka/n/n2111c555ea27?magazine_key=m80cde2fde6bf",
     "image": "https://assets.st-note.com/production/uploads/images/310258753/rectangle_large_type_2_e42165f4efc57f301006a279a54303bb.png?width=1280",
