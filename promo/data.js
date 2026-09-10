@@ -1,5 +1,14 @@
 const articles = [
     {
+    "title": "【講談】ユタカジンポータルサイト開眼の儀",
+    "url": "https://note.com/ogipooh/n/n13ab41e66903?magazine_key=m80cde2fde6bf",
+    "image": "https://assets.st-note.com/production/uploads/images/312336856/rectangle_large_type_2_83d83a85a10debe57062578840174296.jpeg?width=1280",
+    "author": "おぎ",
+    "date": "2026年9月10日 13:16",
+    "tags": []
+},
+    
+    {
     "title": "計画を立ててもその通りにいったことがないに対する素敵な答え【ユタカジン】",
     "url": "https://note.com/fildstraycats/n/n6c03739413df?magazine_key=m80cde2fde6bf",
     "image": "https://assets.st-note.com/production/uploads/images/311959918/rectangle_large_type_2_506935acbc8d77e14d68e501aa01f814.png?width=1280",
